@@ -1,0 +1,152 @@
+.body{
+  background-color: black;
+}
+
+.navbar{
+  background-color: rgb(124, 147, 177);
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flexbox;
+  justify-content:center;
+}
+
+.C-Heading{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: antiquewhite;
+  align-items: end;
+
+}
+
+.contacts{
+  max-height: fit-content;
+  padding: 20px;
+  text-decoration:underline;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 10px;
+  background-color: sandybrown;
+  display: flex;
+  justify-content:space-between;
+}
+
+.App-heading{
+  background-color: azure;
+  text-align: center;
+
+}
+
+.data1{
+  background-color: lightblue;
+  padding: 20px;
+  text-transform: capitalize; 
+  text-align: justify;
+  margin-bottom: 3px;
+}
+
+.button1{
+  background-color:cornflowerblue;
+  height: max-content;
+  padding: 20px;
+  margin-left: 400px;
+  margin-top: 40px;
+  display: flex;
+  border: 20px;
+  border-radius: 10px;
+
+}
+
+.duration1{
+  background-color: lightslategrey;
+
+}
+
+.Web-heading{
+  background-color: azure;
+  text-align: center;
+
+}
+
+
+.data2{
+  background-color: lightblue;
+  padding: 20px;
+  text-transform: capitalize; 
+  text-align: justify;
+  margin-bottom: 3px;
+}
+
+.button2{
+  background-color:cornflowerblue;
+  height: max-content;
+  padding: 20px;
+  margin-left: 400px;
+  margin-top: 40px;
+  display: flex;
+  border: 20px;
+  border-radius: 10px;
+
+}
+
+.duration2{
+  background-color: lightslategrey;
+}
+
+.Home{
+  background-color:aqua;
+  text-align: center;
+  font-style: oblique;
+  
+}
+
+.goal{
+  background-color: aquamarine;
+}
+
+.discount{
+  background-color: cadetblue;
+}
+
+.services{
+  background-color: paleturquoise;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 13px;
+}
+
+.courses{
+  background-color: darkkhaki;
+  text-align: center;
+text-overflow:ellipsis;
+color: rgb(17, 17, 153);
+padding: 9px;
+text-transform: uppercase;
+}
+
+.aboutUs{
+  background-color: crimson;
+  color:aliceblue;
+  padding: 24px;
+  text-rendering:optimizeLegibility;
+  text-align: center;
+  text-transform:capitalize;
+}
+
+.location{
+  background-color: darkgoldenrod;
+ padding: 18px;
+  text-align: right;
+  margin: 20px;
+}
+
+.aboutUspara{
+  background-color: peru;
+  text-decoration: solid;
+  padding: 20px;
+  margin: 17px;
+  text-align: left;
+}
